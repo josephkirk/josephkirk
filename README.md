@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nguyen Phi Hung!
 
-🎮 **Lead Technical Artist** | 🛠️ Unreal Engine 5 Specialist  
-[studiokoorogi.com](https://studiokoorogi.com)
+🎮 **Technical Art Director** | 🛠️ Unreal Engine 5 Specialist  
 
 ---
 
@@ -24,7 +23,6 @@ I'm a passionate developer and artist specializing in Unreal Engine 5 As a **Lea
 
 ## 🌐 Connect with Me
 
-- 🌍 [studiokoorogi.com](https://studiokoorogi.com)
 - 🎲 Game enthusiast, especially indie gems with innovative mechanics
 
 ---
